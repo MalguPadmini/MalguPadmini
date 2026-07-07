@@ -101,7 +101,7 @@ Built as part of my **Infosys Springboard** internship — analyzing F&B custome
 ---
 
 ### 🧑‍💻 Dev Portfolio
-> [MyPortfolio](https://github.com/MalguPadmini/MyPortfolio)
+> (https://malgupadmini.github.io/MyPortfolio_Padmini/)
 
 Responsive personal portfolio built from scratch with semantic HTML5 and custom CSS3, optimized for cross-device performance.
 
