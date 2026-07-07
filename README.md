@@ -135,15 +135,6 @@ Responsive personal portfolio built from scratch with semantic HTML5 and custom 
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MalguPadmini&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalguPadmini&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
----
-
 <p align="center">
   <i>"Building at the intersection of data, intelligence, and user experience."</i><br/>
   📬 Reach me at <a href="mailto:codewithmalgu@gmail.com">codewithmalgu@gmail.com</a>
