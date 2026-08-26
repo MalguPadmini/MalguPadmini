@@ -81,7 +81,7 @@ I'm interested in building practical software at the intersection of **AI, data,
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
 ###  ProjectHub — Project Management & Team Collaboration Platform
 
@@ -115,23 +115,6 @@ A full-stack project management platform designed to bring **projects, tasks, te
 
 ---
 
-###  FOSSEE Workshop Booking Portal — React UI Redesign
-
-> [workshop-booking-ui](https://github.com/MalguPadmini/workshop-booking-ui) · ⭐ 2
-
-A modern React reimplementation of the FOSSEE Django booking portal, built as a **FOSSEE Summer Fellowship screening project**.
-
-- Replaced Bootstrap 3 with a custom CSS design-token system
-- Mobile-first responsive layout
-- Animated hero section
-- Dynamic workshop cards with seat-fill progress bars
-- Workshop status badges
-- Semantic HTML5 and accessibility-focused UI
-- Responsive design across device sizes
-
-`Tech: React.js · CSS3 · JavaScript`
-
----
 
 ###  Food Trends Analysis — Social Media Dashboard
 
